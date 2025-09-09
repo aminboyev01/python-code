@@ -1,2 +1,3 @@
 # python-code
-Bu kodlar pythonda
+Project
+
